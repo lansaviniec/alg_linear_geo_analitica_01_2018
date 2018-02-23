@@ -1,2 +1,5 @@
-# alg_linear_geo_analitica_01_2018
+# Introdução
 Material da disciplina de Álgebra Linear e Geometria Analítica
+
+# Instruções
+mt1.pdf : contém material complementar das aulas e lista de exercícios
