@@ -7,6 +7,10 @@ Todo material utilizado em sala de aula será adicionado neste repositório no d
 # Descrição do material
 mt1.pdf : contém material complementar das aulas.
 
+retas.m : programa em GNU Octave que permite plotar retas em 2D.
+
+planos.m : programa em GNU Octave que permite plotar planos em 3D.
+
 lista_de_exercicios.pdf : contém as listas de exercícios para as provas.
 
 1 introducao.pdf : notas de aula
