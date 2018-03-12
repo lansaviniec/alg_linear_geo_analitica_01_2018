@@ -7,6 +7,8 @@ Todo material utilizado em sala de aula será adicionado neste repositório no d
 # Descrição do material
 mt1.pdf : contém material complementar das aulas.
 
+ga.dwg : arquivo CAD.
+
 retas.m : programa em GNU Octave que permite plotar retas em 2D.
 
 planos.m : programa em GNU Octave que permite plotar planos em 3D.
