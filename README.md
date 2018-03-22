@@ -14,3 +14,5 @@ retas.m : programa em GNU Octave que permite plotar retas em 2D.
 planos.m : programa em GNU Octave que permite plotar planos em 3D.
 
 lista_de_exercicios.pdf : contém as listas de exercícios para as provas.
+
+Demais arquivos: contém notas de aula.
